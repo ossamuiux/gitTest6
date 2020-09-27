@@ -20,3 +20,5 @@ git remote -v
 터미널명령 git commit -m "커밋메세지"
 -- push
 터미널명령 git push
+
+브랜치 변경후 업로드
