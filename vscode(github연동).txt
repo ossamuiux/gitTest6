@@ -5,3 +5,9 @@
 git config --global user.name 'ossamuiux'
 git config --global user.email 'dalhoya@naver.com'
 git config --list 사용자정보확인
+
+- github저장소 주소 추가(origin은 원격저장소 주소임)
+git remote add origin https://github.com/ossamuiux/gitTest6.git
+- 원격저장소 주소 확인
+git remote -v
+
