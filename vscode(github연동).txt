@@ -1,0 +1,7 @@
+- git설치후 view-terminal에서 git --version 버전확인
+- 좌측 소스제어 - 레포지토리(저장소) 초기화후 프로젝트폴더에 .git폴더생성
+- 최초 github에 연결 시도시 사용자정보입력해야함
+- git 사용자정보등록(--global 플래그로 모든 깃프로젝트에 전역등록)
+git config --global user.name 'ossamuiux'
+git config --global user.email 'dalhoya@naver.com'
+git config --list 사용자정보확인
