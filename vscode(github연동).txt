@@ -11,4 +11,7 @@ git remote add origin https://github.com/ossamuiux/gitTest6.git
 - 원격저장소 주소 확인
 git remote -v
 
-- 수정된내용
+- git status 스테이지상태, 수정파일내용 확인
+
+- 기본 github 업로드방식
+git add .(모드
