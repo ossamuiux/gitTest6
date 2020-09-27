@@ -13,6 +13,10 @@ git remote -v
 
 - git status 스테이지상태, 수정파일내용 확인
 
-- 기본 github 업로드방식
-git add .(모드
-ㅁㄴㅇㄻㄴㅇㄹ
+- 작업파일 저장후 github 업로드절차
+-- changes - stage all changes(모든 변경사항 로컬저장소에 스테이징)
+터미널명령 git add .
+-- 커밋메세지 입력후 ctrl + enter(변경된 코드를 묶어줌)
+터미널명령 git commit -m "커밋메세지"
+-- push
+터미널명령 git push origin master
